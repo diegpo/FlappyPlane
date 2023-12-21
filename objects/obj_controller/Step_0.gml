@@ -20,7 +20,14 @@ if (pontos > proximo_level){
 	global.level++;
 	//Aumentando pontos necessários para o próximo level
 	proximo_level *= 2;
+	
+	//Tocando som ao ganhar level
+	audio_play_sound(snd_levelup, 1, false);
+	
 }
+
+
+
 show_debug_message(global.level);
 
 //Ajustando a velocidade do background
