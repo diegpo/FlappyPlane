@@ -18,3 +18,7 @@
 	3.2 - Criando as montanhas - OK
 	3.3 - Alterando a frequência da criação das montanhas - OK
 	3.4 - Alterando a posição das montanhas - OK
+	
+4 - Background
+	4.1 - Criando a sprite do backgournd - OK
+	4.2 - Colocando movimento no backgound - OK
