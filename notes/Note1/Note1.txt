@@ -5,6 +5,10 @@
 	1.4 - Subindo ao apertar espaço - OK
 	1.5 - Simulando a gravidade - OK
 	1.6 - Limitando a velocidade de queda do avião - OK
+	1.7 - Reiniciando ao colidir com o obstáculos - OK
 	
 2 - Obstáculos
 	2.1 - Criar as sprites das montanhas - OK
+	2.2 - Criar objeto das montanhas - OK
+	2.3 - Ajustar espaço entre as montanhas - OK
+	2.4 - MOvendo as montanhas para a esquerda - OK
