@@ -12,3 +12,9 @@
 	2.2 - Criar objeto das montanhas - OK
 	2.3 - Ajustar espaço entre as montanhas - OK
 	2.4 - MOvendo as montanhas para a esquerda - OK
+	
+3 - Geração Procedural dos obstáculos
+	3.1 - Criando um evento que repete - OK
+	3.2 - Criando as montanhas - OK
+	3.3 - Alterando a frequência da criação das montanhas - OK
+	3.4 - Alterando a posição das montanhas - OK
