@@ -47,4 +47,7 @@
 	7.3 - Tocando o som de level up ao ganhar level - OK
 
 8 - Tela inicial do jogo
-	
+	8.1 - Criando a room - OK
+	8.2 - Criando a sprite apresentação - OK
+	8.3 - Criando a animação da sprite - OK
+	8.4 - Iniciando o jogo na tela iicial - OK
