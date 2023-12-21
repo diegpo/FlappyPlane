@@ -6,7 +6,9 @@
 	1.5 - Simulando a gravidade - OK
 	1.6 - Limitando a velocidade de queda do avião - OK
 	1.7 - Reiniciando ao colidir com o obstáculos - OK
-	
+	1.8 - Criar uma fumaça sempre que ele subir - OK
+	1.9 - Fazendo a fumaça crescer - OK
+	1.10- Fazendo a fumaça desaparecer - OK
 	
 2 - Obstáculos
 	2.1 - Criar as sprites das montanhas - OK
@@ -43,3 +45,6 @@
 	7.1 - Importando os sons - OK
 	7.2 - Tocando a música de fundo - OK
 	7.3 - Tocando o som de level up ao ganhar level - OK
+
+8 - Tela inicial do jogo
+	
