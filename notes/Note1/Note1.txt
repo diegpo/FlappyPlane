@@ -12,6 +12,7 @@
 	2.2 - Criar objeto das montanhas - OK
 	2.3 - Ajustar espaço entre as montanhas - OK
 	2.4 - MOvendo as montanhas para a esquerda - OK
+	2.5 - Aumentando a velocidade dependendo do Level - 
 	
 3 - Geração Procedural dos obstáculos
 	3.1 - Criando um evento que repete - OK
@@ -28,3 +29,7 @@
 	5.2 - Ganhando pontos - OK
 	5.3 - Exibindo os pontos - OK
 	
+6 - Sistema de Leval
+	6.1 - Iniciando o sistema de leval - OK
+	6.2 - Ganhando level - OK
+	6.3 - Exibindo o level - OK
