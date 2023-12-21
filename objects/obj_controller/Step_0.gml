@@ -27,8 +27,8 @@ if (pontos > proximo_level){
 }
 
 
-
-show_debug_message(global.level);
+//Debug
+//show_debug_message(global.level);
 
 //Ajustando a velocidade do background
 //Pegando a layer do background

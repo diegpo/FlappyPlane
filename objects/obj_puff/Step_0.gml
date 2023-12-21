@@ -8,3 +8,11 @@ image_yscale += 0.01;
 
 //Diminuindo o alpha da imagem
 image_alpha -= 0.01;
+
+//Destruindo fora da tela/transparente
+if (image_alpha <= 0){
+	//Destruindo
+	instance_destroy();	
+	//Debug
+	//show_debug_message("morri!")
+}
