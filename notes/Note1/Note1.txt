@@ -22,3 +22,9 @@
 4 - Background
 	4.1 - Criando a sprite do backgournd - OK
 	4.2 - Colocando movimento no backgound - OK
+	
+5 - Sistema de pontos
+	5.1 - Iniciando sistema de pontos - OK
+	5.2 - Ganhando pontos - OK
+	5.3 - Exibindo os pontos - OK
+	

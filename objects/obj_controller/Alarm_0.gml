@@ -1,6 +1,7 @@
 /// @description 
 
-show_debug_message("rodei");
+//Debug
+//show_debug_message("rodei");
 
 //O y da montanha de cima
 var montanha1_y = random_range(-160, 0);
