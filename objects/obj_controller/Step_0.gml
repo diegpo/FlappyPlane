@@ -2,7 +2,15 @@
 // You can write your code in this editor
 
 //Ganhando pontos
-pontos += 0.1;
+pontos += 0.1 * global.level;
+
+/*
+1 - 10 - 0.1
+2 - 20 - 0.2
+3 - 40 - 0.3
+4 - 40 - 0.4
+*/
+
 
 //Debug
 //show_debug_message(pontos);
@@ -14,3 +22,11 @@ if (pontos > proximo_level){
 	proximo_level *= 2;
 }
 show_debug_message(global.level);
+
+//Ajustando a velocidade do background
+//Pegando a layer do background
+var background = layer_get_id("Background");
+layer_hspeed(background, -1 - global.level);
+var chao = layer_get_id("Chao");
+layer_hspeed(chao, -4 - global.level);
+

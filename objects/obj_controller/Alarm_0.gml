@@ -16,4 +16,8 @@ instance_create_layer(810, montanha1_y + 640, "Instances", obj_montanha_baixo);
 
 
 //Reiniciar alarme entre 1 e 3 segundos
-alarm[0] = room_speed * random_range(1, 3);
+//alarm[0] = room_speed * random_range(1, 3);
+
+//Melhorando o intervado das montanhas
+var tempo_minimo = 1 / (1 + (global.level * 0.1));
+alarm[0] = room_speed * random_range(tempo_minimo, 2);

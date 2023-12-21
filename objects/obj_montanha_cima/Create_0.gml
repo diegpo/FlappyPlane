@@ -1,3 +1,3 @@
 /// @description Indo para a esquerda
 
-hspeed = -4;
+hspeed = -4 - global.level;
